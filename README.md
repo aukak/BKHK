@@ -5,7 +5,7 @@ This repository is for educational use only. Hacking into/ exploiting Blooket or
 
 ---
 
-## What is Blooket?
+## What is Blooket? (no need to read)
 Simply put, Blooket is an online learning platform woven around gamified elements. The teachers create games on it, and students participate in it by answering questions in real time. The platform has fun modes such as tower defense, battle royale, and many other modes.
 
 --
@@ -21,7 +21,7 @@ To activate All Blooks.js, copy the whole script below from the script section a
 
 javascript: (the code that you copied here)
 
-## ???? What This Repository Contains
+## What This Repository Contains
 This repository contains a set of hacks and scripts that customizes your or upgrades your experience with Blooket.
 
 ### Features:
