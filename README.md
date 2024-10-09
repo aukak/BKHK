@@ -5,11 +5,11 @@ This repository is for educational use only. Hacking into/ exploiting Blooket or
 
 ---
 
-## ???? What is Blooket?
+## What is Blooket?
 Simply put, Blooket is an online learning platform woven around gamified elements. The teachers create games on it, and students participate in it by answering questions in real time. The platform has fun modes such as tower defense, battle royale, and many other modes.
 
 --
-## Receipt HOW TO USE THE HACKS
+## HOW TO USE THE HACKS
 
 1. **Copy the code** off of this repository of the hack you want to use.
 2. Open any available browser and open [Blooket](https://www.blooket.com/).
